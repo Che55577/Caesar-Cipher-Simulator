@@ -31,4 +31,4 @@
 
 ```bash
 請輸入想加密的文字：HELLO WORLD
-加密結果: ZURFXZACKFA
+加密結果：KHOOR ZRUOG
